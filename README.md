@@ -1,7 +1,4 @@
-# Day3
-### IO, Files
-
-*Takeways: Today you will learn how to use input/output in Java and implement programs to manipulate a file system*
+# IO, Files
 
 ### Exercise 00 – File Signatures
 
